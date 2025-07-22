@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-generativeai
+langchain
+langchain-google-genai
+sqlalchemy
+psycopg2-binary
+ipfshttpclient
+web3
+pydantic
+python-dotenv
