@@ -213,6 +213,5 @@ Always activate the virtual environment before running any backend Python comman
 3. View the AI-generated summary, risk score, and category
 4. Vote on proposals or configure an AI delegate to vote on your behalf
 
-## License
 
-MIT
+
