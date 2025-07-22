@@ -50,17 +50,17 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Resources</h4>
             <ul className="space-y-2">
               <li>
-                <a href="https://github.com/your-repo/ai-gov" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+                <a href="https://github.com/iamgkkj/Ai-gov" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                   GitHub
                 </a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">
+                <a href="https://docs.google.com/document/d/19-eQFPKFElvvHNxLIQ-YKTCboQWM9mfrf9N9-tWesxs/edit?usp=sharing" className="text-gray-400 hover:text-white transition-colors">
                   Documentation
                 </a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">
+                <a href="https://aistudio.google.com/app/apikey" className="text-gray-400 hover:text-white transition-colors">
                   API
                 </a>
               </li>
